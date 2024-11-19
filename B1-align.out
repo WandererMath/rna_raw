@@ -1,0 +1,39 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+# reads processed: 29729492
+# reads with at least one reported alignment: 29286886 (98.51%)
+# reads that failed to align: 442606 (1.49%)
+Reported 29286886 alignments to 1 output stream(s)
+# reads processed: 37098003
+# reads with at least one reported alignment: 36671562 (98.85%)
+# reads that failed to align: 426441 (1.15%)
+Reported 36671562 alignments to 1 output stream(s)
+# reads processed: 36175221
+# reads with at least one reported alignment: 35703184 (98.70%)
+# reads that failed to align: 472037 (1.30%)
+Reported 35703184 alignments to 1 output stream(s)
+# reads processed: 38176219
+# reads with at least one reported alignment: 37197339 (97.44%)
+# reads that failed to align: 978880 (2.56%)
+Reported 37197339 alignments to 1 output stream(s)
+# reads processed: 39979349
+# reads with at least one reported alignment: 39494684 (98.79%)
+# reads that failed to align: 484665 (1.21%)
+Reported 39494684 alignments to 1 output stream(s)
+# reads processed: 38917056
+# reads with at least one reported alignment: 38218268 (98.20%)
+# reads that failed to align: 698788 (1.80%)
+Reported 38218268 alignments to 1 output stream(s)
+# reads processed: 32283456
+# reads with at least one reported alignment: 29467922 (91.28%)
+# reads that failed to align: 2815534 (8.72%)
+Reported 29467922 alignments to 1 output stream(s)
+# reads processed: 39864540
+# reads with at least one reported alignment: 39062817 (97.99%)
+# reads that failed to align: 801723 (2.01%)
+Reported 39062817 alignments to 1 output stream(s)
+# reads processed: 45151159
+# reads with at least one reported alignment: 44199779 (97.89%)
+# reads that failed to align: 951380 (2.11%)
+Reported 44199779 alignments to 1 output stream(s)

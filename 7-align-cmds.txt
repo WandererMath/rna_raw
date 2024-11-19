@@ -1,0 +1,10 @@
+bowtie -q -3 5 -S ref_files_for_genome_viewer/Ecoli_BW25113 ./data/dedup/A03-trim-merged-dedup.fastq > ./data/bowtie/A03-bowtie1.txt & 
+bowtie -q -3 5 -S ref_files_for_genome_viewer/Ecoli_BW25113 ./data/dedup/C03-trim-merged-dedup.fastq > ./data/bowtie/C03-bowtie1.txt & 
+bowtie -q -3 5 -S ref_files_for_genome_viewer/Ecoli_BW25113 ./data/dedup/B02-trim-merged-dedup.fastq > ./data/bowtie/B02-bowtie1.txt & 
+bowtie -q -3 5 -S ref_files_for_genome_viewer/Ecoli_BW25113 ./data/dedup/A01-trim-merged-dedup.fastq > ./data/bowtie/A01-bowtie1.txt & 
+bowtie -q -3 5 -S ref_files_for_genome_viewer/Ecoli_BW25113 ./data/dedup/C01-trim-merged-dedup.fastq > ./data/bowtie/C01-bowtie1.txt & 
+bowtie -q -3 5 -S ref_files_for_genome_viewer/Ecoli_BW25113 ./data/dedup/B01-trim-merged-dedup.fastq > ./data/bowtie/B01-bowtie1.txt & 
+bowtie -q -3 5 -S ref_files_for_genome_viewer/Ecoli_BW25113 ./data/dedup/B03-trim-merged-dedup.fastq > ./data/bowtie/B03-bowtie1.txt & 
+bowtie -q -3 5 -S ref_files_for_genome_viewer/Ecoli_BW25113 ./data/dedup/C02-trim-merged-dedup.fastq > ./data/bowtie/C02-bowtie1.txt & 
+bowtie -q -3 5 -S ref_files_for_genome_viewer/Ecoli_BW25113 ./data/dedup/A02-trim-merged-dedup.fastq > ./data/bowtie/A02-bowtie1.txt & 
+wait

@@ -1,0 +1,11 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+# reads processed: 9061199
+# reads with at least one reported alignment: 8822509 (97.37%)
+# reads that failed to align: 238690 (2.63%)
+Reported 46996273 alignments to 1 output stream(s)
+# reads processed: 10085835
+# reads with at least one reported alignment: 9818148 (97.35%)
+# reads that failed to align: 267687 (2.65%)
+Reported 52708800 alignments to 1 output stream(s)

@@ -1,0 +1,10 @@
+python 12-hist.py ../data/bed/A01-bowtie1.bed &
+python 12-hist.py ../data/bed/C01-bowtie1.bed &
+python 12-hist.py ../data/bed/A02-bowtie1.bed &
+python 12-hist.py ../data/bed/C03-bowtie1.bed &
+python 12-hist.py ../data/bed/C02-bowtie1.bed &
+python 12-hist.py ../data/bed/B03-bowtie1.bed &
+python 12-hist.py ../data/bed/B01-bowtie1.bed &
+python 12-hist.py ../data/bed/A03-bowtie1.bed &
+python 12-hist.py ../data/bed/B02-bowtie1.bed &
+wait
